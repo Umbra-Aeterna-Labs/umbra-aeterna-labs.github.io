@@ -1,2 +1,5 @@
 # IDE config folder
-.idea/
+.idea
+
+# Jekyll-generated site folder
+_site
