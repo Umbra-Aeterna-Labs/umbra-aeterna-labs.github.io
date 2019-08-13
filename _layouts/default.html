@@ -17,10 +17,12 @@
 
 </head>
 <body>
+
 <div id="header">
     <nav>
-        <li class="main-logo-left"><img src="/assets/img/logo_main_left.png" height="53" width="44" alt="Duo Extrema Software Logo"></li>
-        <li class="fork"><a href="">GitHub Profile</a></li>
+        <li class="main-logo-left"><img src="/assets/img/logo_main_left.png" height="53" width="44"
+                                        alt="Duo Extrema Software Logo"></li>
+        <li class="fork"><a href="{{ site.github.owner_url }}">GitHub Profile</a></li>
 
         {% if page.title != 'Contact Us' %}
         <li class="fork"><a href="/contact">About & Contact</a></li>
@@ -34,18 +36,12 @@
         <li class="fork"><a href="/links">Other Great Apps</a></li>
         {% endif %}
 
-        <li class="fork"><img src="/assets/img/logo_main_right.png" height="53" width="44" alt="Duo Extrema Software Logo"></li>
-
-        {% if site.show_downloads %}
-        <!--            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>-->
-        <!--            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>-->
-        <!--            <li class="title">DOWNLOADS</li>-->
-        {% endif %}
+        <li class="fork"><img src="/assets/img/logo_main_right.png" height="53" width="44"
+                              alt="Duo Extrema Software Logo"></li>
     </nav>
 </div><!-- end header -->
 
 <div class="wrapper">
-
     <section>
         <div id="title">
             <h1>{{ page.title }}</h1>
@@ -58,25 +54,32 @@
         {{ content }}
 
     </section>
-
 </div>
 
 {% if site.google_analytics %}
-<!--      <script>-->
-<!--        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){-->
-<!--        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),-->
-<!--        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)-->
-<!--        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');-->
-<!--        ga('create', '{{ site.google_analytics }}', 'auto');-->
-<!--        ga('send', 'pageview');-->
-<!--      </script>-->
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+</script>
+
 {% endif %}
 
 <div id="footer">
     <div class="wrapper inner-footer">
         <br>
         <h3>Disclaimer</h3>
-
         <p>Duo Extrema Software is not a subsidiary of, or in any way
             affiliated with, Elder Games LLC, owner of the aforementioned game
             Project: Gorgon.
@@ -86,7 +89,6 @@
         <p>If you
             feel that an infringement has occurred in any of our projects please
             <a href="/contact">contact us</a> ASAP.</p>
-
         <p>Thank you!</p>
         <br>
     </div>
