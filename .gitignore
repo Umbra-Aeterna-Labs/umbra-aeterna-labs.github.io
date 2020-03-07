@@ -1,0 +1,10 @@
+### Jekyll and site files
+/_site/
+/.bundle/
+vendor/
+
+### IDE config folder
+.idea
+
+### social media preview banner (no need to store on GitHub)
+/assets/img/logo0.png

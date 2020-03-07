@@ -6,9 +6,9 @@ applications for Project: Gorgon'
 
 ### PgMoon
 
-[GitHub](https://github.com/dlebansais/PgMoon)
+#### [GitHub](https://github.com/dlebansais/PgMoon)
 
-[Download](https://github.com/dlebansais/PgMoon/releases) 
+#### [Download](https://github.com/dlebansais/PgMoon/releases) 
 
 A moon phase information toolset. 
 It yields the current phase,
@@ -17,11 +17,15 @@ time until the next full moon.
 
 Author: 'Niph'
 
+<br>
+
 ---
+
+<br>
 
 ### Project Gorgon Survey Helper
 
-[Website](http://www.defenestration.co/pg/surveying/)
+#### [Website](http://www.defenestration.co/pg/surveying/)
 
 A surveying assistant.
 It allows plotting of checked surveys onto a web page map where

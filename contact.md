@@ -1,19 +1,19 @@
 ---
-title: 'Contact Us'
+title: 'Contact'
 description: 'Request apps and features, report bugs, or ask
 a question!'
 ---
 
-### About Duo Extrema Software
+### About Umbra Aeterna Labs
 
-Formed on the 8th of August 2019 by [Chris Mabon](https://github.com/chrismabon)
-for the development of open-source apps.
+#### Formed for the development of open-source apps on the 6th of March 2020 by [Chris Mabon](https://github.com/chrismabon)
 
-All app requests/suggestion, bug reports, and inquiries should be
-sent to the email address below. 
+<br>
 
-### Email
+---
 
-__*Please include an informative subject with your email!*__
+<br>
 
-    duo.extrema.software (at) protonmail.com
+#### All requests, suggestions, and inquiries should be sent to [umbra.aeterna.labs@protonmail.com](mailto:umbra.aeterna.labs@protonmail.com)
+
+#### Please include an informative subject
