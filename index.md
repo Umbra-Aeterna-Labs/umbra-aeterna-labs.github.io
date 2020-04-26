@@ -1,35 +1,40 @@
 ---
 title: 'Umbra Aeterna Labs'
-description: 'Organization home page for open-source development of
-various applications, often for players of the online MMORPG 
-video game Project: Gorgon'
+description: 'Organization home page for open-source development of various applications, often for players of the 
+online MMORPG Project: Gorgon'
 ---
 
-### Current Projects
+# Current Projects
 
-<br>
+---
 
-#### [Phase Pharmer](https://github.com/Umbra-Aeterna-Labs/PhasePharmer)
+## Phase Pharmer
+v0.1.4
 
 A web application used to aggregate game info about mushroom farming, 
 calculate the current and next moon phase, and maintain timers for 
 current mushroom farming boxes a player might have. 
 
+#### [Live App](https://umbra-aeterna-labs.github.io/PhasePharmer)
+
+#### [GitHub Repository](https://github.com/Umbra-Aeterna-Labs/PhasePharmer)
+
+---
+
+## Cannasseur
 In-development
-
-<br>
-
-#### [Cannasseur](https://github.com/Umbra-Aeterna-Labs/Cannasseur)
 
 Catalogue your journey through the cannabis world. 
 
-In-development, early phase
+#### [GitHub Repository](https://github.com/Umbra-Aeterna-Labs/Cannasseur)
 
-<br>
+---
 
-#### [VisualStructsPy](https://github.com/Umbra-Aeterna-Labs/VisualStructsPy)
+## VisualStructsPy
+In-development
 
 Graphically displays data structures such as arrays, lists, and trees
 within Python. Utilizes Qt5 framework.
 
-In-development
+#### [GitHub Repository](https://github.com/Umbra-Aeterna-Labs/VisualStructsPy)
+

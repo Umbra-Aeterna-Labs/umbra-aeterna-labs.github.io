@@ -1,7 +1,6 @@
 ---
-title: 'Other Great Apps'
-description: 'Be sure to check out these other excellent
-applications for Project: Gorgon'
+title: 'Other Apps'
+description: 'Be sure to check out these other excellent applications for Project: Gorgon'
 ---
 
 ### PgMoon

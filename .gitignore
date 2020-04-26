@@ -6,5 +6,6 @@ vendor/
 ### IDE config folder
 .idea
 
-### social media preview banner (no need to store on GitHub)
-/assets/img/logo0.png
+###  Dolphin directory files
+**/.directory
+/.directory
