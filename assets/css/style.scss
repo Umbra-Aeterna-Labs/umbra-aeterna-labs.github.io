@@ -21,6 +21,10 @@ h1 {
   color: rgba(160, 0, 0, 1.0);
 }
 
+h2 {
+  text-align: center;
+}
+
 a {
   color: rgba(250, 0, 0, 1.0);
 }
@@ -77,4 +81,25 @@ a:hover, #header nav li a:hover {
 
 #header nav li {
   display: inline;
+}
+
+img[alt$="-96px"]{
+  width:  96px;
+  display: block;
+  position: absolute;
+  right: 20px;
+  margin: 0;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+  margin: 0 0 10px 0;
+}
+
+.center {
+  text-align: center;
 }
