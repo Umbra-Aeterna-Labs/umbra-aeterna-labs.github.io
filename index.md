@@ -1,13 +1,13 @@
 ---
 title: 'Umbra Aeterna Labs'
-description: 'Organization home page for open-source development of
-various applications, often for players of the online MMORPG 
-video game Project: Gorgon'
+description: 'Open-source app development for 
+Project: Gorgon players'
 ---
 
 # Current Projects
 
 <br>
+
 ---
 
 ## [Phase Pharmer](https://github.com/Umbra-Aeterna-Labs/PhasePharmer)
@@ -20,6 +20,7 @@ calculate the current and next moon phase, and maintain timers for
 current mushroom farming boxes a player might have.</p> 
 
 [Live App](https://phasepharmer.app)
+<br>
 
 ---
 
@@ -27,6 +28,7 @@ current mushroom farming boxes a player might have.</p>
 
 <p class="right">In-development, early phase</p>
 <p>Catalogue your journey through the cannabis world.</p> 
+<br>
 
 ---
 

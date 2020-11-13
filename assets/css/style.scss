@@ -18,11 +18,13 @@ section img {
 }
 
 h1 {
-  color: rgba(160, 0, 0, 1.0);
+  //color: rgba(160, 0, 0, 1.0);
+  color: #ffffff;
 }
 
 h2 {
   text-align: center;
+  color: rgba(200, 0, 0, 1.0);
 }
 
 a {
@@ -97,6 +99,7 @@ img[alt$="-96px"]{
 
 .copyright {
   text-align: center;
+  color: #ffffff;
 }
 
 .right {

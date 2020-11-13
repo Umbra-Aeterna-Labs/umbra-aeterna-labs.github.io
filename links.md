@@ -16,6 +16,7 @@ description: 'Be sure to check out these other excellent applications for Projec
 abilities, and equipment using the latest game data.</p>
 
 [Download](https://github.com/dlebansais/PgBuilder-Disclosed/releases)
+<br>
 
 ---
 
@@ -29,6 +30,7 @@ the next four phases, the time until next phase, and the
 time until the next full moon.</p>
 
 [Download](https://github.com/dlebansais/PgMoon/releases) 
+<br>
 
 ---
 
