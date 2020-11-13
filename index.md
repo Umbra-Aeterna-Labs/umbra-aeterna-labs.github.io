@@ -6,8 +6,8 @@ video game Project: Gorgon'
 ---
 
 # Current Projects
-<br>
 
+<br>
 ---
 
 ## [Phase Pharmer](https://github.com/Umbra-Aeterna-Labs/PhasePharmer)

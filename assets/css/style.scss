@@ -48,17 +48,21 @@ section #title h1 {
 
 #header nav {
   min-width: 565px;
-  max-width: 700px;
   width: 96%;
+}
+
+#header nav ul {
+  width: 700px;
 }
 
 #header nav li a {
   background-color: rgba(200, 0, 0, 0.3);
   border-color: #1c1c1c;
+  width: 72px;
 }
 
 #header nav li.fork {
-  margin: 0 0 0 5.8%;
+  margin: 0 0 0 44px;
 }
 
 a:hover {

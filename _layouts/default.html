@@ -20,24 +20,26 @@
 
 <div id="header">
     <nav>
-        <li class="fork"><img src="/assets/img/logo1.png" height="53" width="44"
-                                        alt="Umbra Aeterna Labs Logo"></li>
-        <li class="fork"><a href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+        <ul>
+            <li class="fork"><img src="/assets/img/logo1.png" height="53" width="44"
+                                  alt="Umbra Aeterna Labs Logo"></li>
+            {% if page.title != 'Umbra Aeterna Labs' %}
+            <li class="fork"><a href="/index">Home</a></li>
+            {% endif %}
 
-        {% if page.title != 'Contact' %}
-        <li class="fork"><a href="/contact">About & Contact</a></li>
-        {% endif %}
+            {% if page.title != 'Other Apps' %}
+            <li class="fork"><a href="/links">Other Apps</a></li>
+            {% endif %}
 
-        {% if page.title != 'Umbra Aeterna Labs' %}
-        <li class="fork"><a href="/index">Return Home</a></li>
-        {% endif %}
+            {% if page.title != 'Contact' %}
+            <li class="fork"><a href="/contact">Contact</a></li>
+            {% endif %}
 
-        {% if page.title != 'Other Great Apps' %}
-        <li class="fork"><a href="/links">Other Great Apps</a></li>
-        {% endif %}
+            <li class="fork"><a href="{{ site.github.owner_url }}">GitHub</a></li>
 
-        <li class="fork"><img src="/assets/img/logo1.png" height="53" width="44"
-                              alt="Umbra Aeterna Labs Logo"></li>
+            <li class="fork"><img src="/assets/img/logo1.png" height="53" width="44"
+                                  alt="Umbra Aeterna Labs Logo"></li>
+        </ul>
     </nav>
 </div><!-- end header -->
 
