@@ -1,6 +1,7 @@
 ---
 title: 'Contact'
-description: 'Request apps and features, report bugs, or ask a question!'
+description: 'Request apps and features, report bugs, 
+or ask a question!'
 ---
 
 # About Umbra Aeterna Labs
