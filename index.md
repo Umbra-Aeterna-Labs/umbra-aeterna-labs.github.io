@@ -19,7 +19,7 @@ Project: Gorgon players'
 calculate the current and next moon phase, and maintain timers for 
 current mushroom farming boxes a player might have.</p> 
 
-[Live App](https://phasepharmer.app)
+[Live App](https://umbra-aeterna-labs.github.io/phasepharmer/)
 <br>
 
 ---
