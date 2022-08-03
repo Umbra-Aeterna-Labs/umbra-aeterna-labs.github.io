@@ -17,6 +17,6 @@ or ask a question!'
 ---
 
 ## Email
-<p class="center">All requests, suggestions, and inquiries should be sent to <a href="mailto:umbra.aeterna.labs@protonmail.com">umbra.aeterna.labs@protonmail.com</a>
+<p class="center">All requests, suggestions, and inquiries should be sent to <a href="mailto:umbra.aeterna.labs@gmail.com">umbra.aeterna.labs@gmail.com</a>
 
 (please include an informative subject)</p>
