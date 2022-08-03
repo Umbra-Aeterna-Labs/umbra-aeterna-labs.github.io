@@ -5,4 +5,4 @@ for the organization site powered by GitHub Pages
 
 ---
 
-Copyright 2021 Umbra Aeterna Labs <https://github.com/Umbra-Aeterna-Labs>
+Copyright 2022 Umbra Aeterna Labs [https://github.com/Umbra-Aeterna-Labs](https://github.com/Umbra-Aeterna-Labs)
